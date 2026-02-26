@@ -52,7 +52,7 @@ Supports file listing/search, photo organization, and email summarization and ch
 
 ## Notes
 
-- Gmail summarization requires OAuth setup (`credentials.json` and `token.pickle`).
+- Gmail summarization requires OAuth setup (`credentials.json`).
 - Large replies are split automatically.
 
 ## License
